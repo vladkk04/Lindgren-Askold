@@ -1,6 +1,3 @@
-Hi 👋 My name is Vladyslav Klymiuk
-==================================
-
 Android Developer
 -----------------
 
